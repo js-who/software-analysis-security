@@ -6,7 +6,6 @@ py2neo
 notebook==5.5
 jupyter_dashboards
 tornado==5.1.1
-APOC==3.5.0.11
 ipython-cypher
 pygal
 plotly
