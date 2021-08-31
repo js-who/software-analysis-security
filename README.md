@@ -6,6 +6,6 @@ This example uses the open source sample project "Spring PetClinic" that was onl
 
 ## How to Use
 
-To launch the Jupyter Notebook just click on this badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/js-who/test-analysis/main).
+To launch the Jupyter Notebook just click on this badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/js-who/software-analysis-security/main).
 A new tab will then be opened where you can see the environment including Jupyter and Neo4j getting spinned up.
 There is no further integration or download needed in this example.
